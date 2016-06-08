@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Singers</string>
+    <string name="app_add_user">Add Singer</string>
+    <string name="app_add_album">Add album</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_addUser">add_user</string>
+
+
+</resources>
